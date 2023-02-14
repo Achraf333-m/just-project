@@ -1,0 +1,23 @@
+h1 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(213, 30, 60);
+    width: 700%;
+    font-size: 70px;
+    font-weight: 700;
+    font-family: Sassy Frass;
+
+}
+a {
+    color: black;
+    font-size: 12px;
+}
+.purple {
+    color: blueviolet;
+}
+.pink {
+    color: rgb(255, 0, 51);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+#paragraph {
+    color: blue;
+}
